@@ -31,3 +31,11 @@ p {
     padding: 6px 10px 6px 10px;
     margin-left: 45%;
 }
+.answers {
+    font-size: 150%;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: white;
+    border: 0px;
+    padding: 6px 10px 6px 10px;
+}
